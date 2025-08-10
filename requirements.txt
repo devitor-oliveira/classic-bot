@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+click               # CLI simples
+python-dotenv       # config por arquivo .env (opcional)
+pytest              # testes
+pyinstaller         # para empacotar no Windows (instalar no Windows)
